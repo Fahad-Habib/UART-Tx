@@ -1,6 +1,6 @@
 # UART-Tx
 
-UART (Universal Asynchronous Receiver-Transmitter) **Tx** implemented in SystemVerilog at a **Baud Rate** of **9600**.
+UART (Universal Asynchronous Receiver-Transmitter) **Tx** implemented from scratch in SystemVerilog at a **Baud Rate** of **9600**.
 
 ## UART
 
